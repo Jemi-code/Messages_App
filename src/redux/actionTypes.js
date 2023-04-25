@@ -1,0 +1,6 @@
+export const ActionTypes = {
+    // SET_INPUTS: "SET_INPUTS",
+    // REMOVE_INPUTS: "REMOVE_INPUTS",
+    ADD_MESSAGE: "ADD_MESSAGE",
+    DELETE_MESSAGE: "DELETE_MESSAGE",
+};
