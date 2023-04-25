@@ -45,7 +45,7 @@ const InputForm = (props) => {
     return (
         <div>
             <h3>Input Message here</h3>
-            <Form noValidate validated = {validated} onSubmit={showModal}>
+            <Form validated = {validated} onSubmit={showModal}>
                 <Form.Group controlId="validationCustom01">
                     <Form.Label>Input title here: 
                         <Form.Control
